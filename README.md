@@ -46,7 +46,7 @@ java -cp bin cs131.pa2.filter.concurrent.ConcurrentREPL
 > kill 1                  # Kills background job #1
 ```
 ## 🎯 What I Learned
-###This programming assignment helped me:
+### This programming assignment helped me:
 
 - **Understand fundamental Unix shell commands (ls, cat, grep, wc).
 - **Gain hands-on experience with concurrency in operating systems.
@@ -70,7 +70,7 @@ java -cp bin cs131.pa2.filter.concurrent.ConcurrentREPL
 ## 📌 Project Purpose
 This project was completed as part of COSI 131 - Operating Systems at Brandeis University. The provided skeleton code was extended to include concurrent execution and process management.
 
-##Acknowledgments
+## Acknowledgments
 This project was completed as part of COSI 131 - Operating Systems at Brandeis University. The skeleton code was provided, and I extended it by implementing command logic and concurrency in Java.
 
 Note: This repository contains only my Java contributions—implementing command execution and concurrency.
