@@ -48,10 +48,10 @@ java -cp bin cs131.pa2.filter.concurrent.ConcurrentREPL
 ## 🎯 What I Learned
 ### This programming assignment helped me:
 
-- **Understand fundamental Unix shell commands (ls, cat, grep, wc).
-- **Gain hands-on experience with concurrency in operating systems.
-- **Learn how to manage thread synchronization, parallel execution, and inter-process communication.
-- **Handle race conditions, blocking queues, and thread interruptions in Java.
+- **Understand fundamental Unix shell commands** (ls, cat, grep, wc).
+- **Gain hands-on experience with concurrency in operating systems.**
+- **Learn how to manage thread synchronization, parallel execution, and inter-process communication.**
+- **Handle race conditions, blocking queues, and thread interruptions in Java.**
 
 
 ## 📂 Project Structure
