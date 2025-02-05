@@ -45,7 +45,7 @@ java -cp bin cs131.pa2.filter.concurrent.ConcurrentREPL
 > repl_jobs               # Lists running background jobs
 > kill 1                  # Kills background job #1
 ```
-##🎯 What I Learned
+## 🎯 What I Learned
 ###This programming assignment helped me:
 
 - **Understand fundamental Unix shell commands (ls, cat, grep, wc).
